@@ -6,6 +6,6 @@ python-jose
 passlib[bcrypt]
 python-multipart
 alembic
-mysqlclient
+pymysql
 typing-extensions
 python-dotenv
